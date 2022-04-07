@@ -1,5 +1,5 @@
-# py-news
-A simple news crawler.
+# python-crawler
+A simple crawler app.
 
 ### build
 - Requests
@@ -9,7 +9,7 @@ A simple news crawler.
 ### run
 ```
 # git, python and above packages needed
-git clone https://github.com/blizzwind/py-news
-cd py-news
-python news.py
+git clone https://github.com/blizzwind/python-crawler
+cd python-crawler
+python main.py
 ```
